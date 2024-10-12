@@ -7,7 +7,6 @@ Welcome to my C++ practice repository! This repository contains the code and exe
 - [Introduction](#introduction)
 - [Current Progress](#current-progress)
 - [Goals](#goals)
-- [Project Structure](#project-structure)
 - [How to Run the Code](#how-to-run-the-code)
 - [Challenges](#challenges)
 - [References](#references)
@@ -32,25 +31,7 @@ This repository is a collection of C++ practice problems, exercises, and small p
 - Build small projects and programs to apply the concepts learned.
 - Understand algorithms and data structures in C++.
   
-## Project Structure
 
-```
-C++-Learning-Journey/
-│
-├── basics/
-│   ├── hello_world.cpp         # My first C++ program
-│   ├── variables.cpp           # Example of using variables
-│   └── loops.cpp               # Practice with loops
-│
-├── functions/
-│   └── basic_functions.cpp     # Functions and parameter passing
-│
-├── challenges/
-│   ├── star_pattern.cpp        # Solving a star pattern problem using loops
-│   └── prime_number.cpp        # Checking if a number is prime
-│
-└── README.md                   # Project documentation
-```
 
 ## How to Run the Code
 
