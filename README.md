@@ -81,4 +81,4 @@ Feel free to reach out if you have any suggestions, feedback, or questions:
 
 ---
 
-You can copy this template into your `README.md` file and modify it according to your needs, such as updating your goals and adding more detailed progress sections as you learn more about C++.
+
